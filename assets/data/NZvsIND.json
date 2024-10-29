@@ -1,0 +1,76 @@
+{
+    "id": "1",
+    "title": "NZ vs IND",
+    "image": "https://assets.ganeshaspeaks.com/wp-content/uploads/2014/01/ind-Vs-NZ.jpg",
+    "date": "16 Oct to 05 Nov",
+    "Overview": {
+      "summary": "New Zealand and India face off in an exciting series with multiple formats including ODIs and T20s.",
+      "location": "Various stadiums in India and New Zealand",
+      "history": "The rivalry between India and New Zealand dates back to the early 1970s, featuring competitive matches across formats."
+    },
+    "Matches": [
+      {
+        "matchNumber": "1",
+        "date": "16 Oct 2024",
+        "location": "Mumbai Stadium",
+        "result": "India won by 5 wickets"
+      },
+      {
+        "matchNumber": "2",
+        "date": "20 Oct 2024",
+        "location": "Eden Park, Auckland",
+        "result": "New Zealand won by 3 wickets"
+      }
+    ],
+    "Teams": [
+      {
+        "teamName": "India",
+        "captain": "Rohit Sharma",
+        "coach": "Rahul Dravid",
+        "keyPlayers": ["Virat Kohli", "Jasprit Bumrah", "KL Rahul"]
+      },
+      {
+        "teamName": "New Zealand",
+        "captain": "Kane Williamson",
+        "coach": "Gary Stead",
+        "keyPlayers": ["Trent Boult", "Tom Latham", "Devon Conway"]
+      }
+    ],
+    "Series Stats": {
+      "totalMatches": 5,
+      "winsIndia": 2,
+      "winsNewZealand": 1,
+      "highestRunScorer": "Virat Kohli",
+      "highestWicketTaker": "Trent Boult"
+    },
+    "Venues": [
+      {
+        "name": "Mumbai Stadium",
+        "capacity": 33000,
+        "city": "Mumbai"
+      },
+      {
+        "name": "Eden Park",
+        "capacity": 50000,
+        "city": "Auckland"
+      }
+    ],
+    "News": [
+      {
+        "headline": "India wins opening match with stellar performance by bowlers",
+        "date": "17 Oct 2024",
+        "link": "https://example.com/india-wins-opener"
+      },
+      {
+        "headline": "New Zealand evens series in nail-biting second match",
+        "date": "21 Oct 2024",
+        "link": "https://example.com/nz-wins-second"
+      }
+    ],
+    "Info": {
+      "seriesSponsor": "Dream11",
+      "officialBroadcaster": "Star Sports",
+      "ticketAvailability": "Available online and at stadium counters"
+    }
+  }
+  

@@ -1,0 +1,71 @@
+{
+    "id": "4",
+    "title": "AUS vs WI",
+    "image": "https://c8.alamy.com/comp/2N6G6AR/a-3d-rendering-of-australia-vs-west-indies-cricket-flags-with-shield-on-cricket-stadium-2N6G6AR.jpg",
+    "date": "Upcoming",
+    "Overview": {
+      "summary": "Australia and West Indies are set for a captivating series that promises intense cricket action across all formats.",
+      "location": "Australia",
+      "history": "Australia and West Indies share a legendary rivalry, dating back to the 1960s, with both teams known for their strong performances and historic clashes."
+    },
+    "Matches": [
+      {
+        "matchNumber": "1",
+        "date": "20 Nov 2024",
+        "location": "Melbourne Cricket Ground",
+        "result": "Upcoming"
+      },
+      {
+        "matchNumber": "2",
+        "date": "24 Nov 2024",
+        "location": "Sydney Cricket Ground",
+        "result": "Upcoming"
+      }
+    ],
+    "Teams": [
+      {
+        "teamName": "Australia",
+        "captain": "Pat Cummins",
+        "coach": "Andrew McDonald",
+        "keyPlayers": ["David Warner", "Steve Smith", "Mitchell Starc"]
+      },
+      {
+        "teamName": "West Indies",
+        "captain": "Nicholas Pooran",
+        "coach": "Daren Sammy",
+        "keyPlayers": ["Jason Holder", "Shimron Hetmyer", "Alzarri Joseph"]
+      }
+    ],
+    "Series Stats": {
+      "totalMatches": 3,
+      "winsAustralia": 0,
+      "winsWestIndies": 0,
+      "highestRunScorer": "",
+      "highestWicketTaker": ""
+    },
+    "Venues": [
+      {
+        "name": "Melbourne Cricket Ground",
+        "capacity": 100000,
+        "city": "Melbourne"
+      },
+      {
+        "name": "Sydney Cricket Ground",
+        "capacity": 48000,
+        "city": "Sydney"
+      }
+    ],
+    "News": [
+      {
+        "headline": "Australia and West Indies set to revive historic rivalry",
+        "date": "10 Nov 2024",
+        "link": "https://example.com/aus-wi-preview"
+      }
+    ],
+    "Info": {
+      "seriesSponsor": "Qantas",
+      "officialBroadcaster": "Fox Sports",
+      "ticketAvailability": "Tickets available at stadiums and online"
+    }
+  }
+  

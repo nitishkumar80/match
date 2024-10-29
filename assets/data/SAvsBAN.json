@@ -1,0 +1,71 @@
+{
+    "id": "3",
+    "title": "SA vs BAN",
+    "image": "https://c8.alamy.com/comp/2M78XNA/a-3d-render-of-bangladesh-vs-south-africa-flag-icons-on-a-green-round-cricket-field-2M78XNA.jpg",
+    "date": "Upcoming",
+    "Overview": {
+      "summary": "South Africa and Bangladesh will compete in a thrilling series across formats, showcasing both teams’ strengths in cricket.",
+      "location": "South Africa",
+      "history": "South Africa and Bangladesh have faced each other in various series since 2000, known for their competitive and unpredictable matches."
+    },
+    "Matches": [
+      {
+        "matchNumber": "1",
+        "date": "12 Nov 2024",
+        "location": "Newlands, Cape Town",
+        "result": "Upcoming"
+      },
+      {
+        "matchNumber": "2",
+        "date": "15 Nov 2024",
+        "location": "SuperSport Park, Centurion",
+        "result": "Upcoming"
+      }
+    ],
+    "Teams": [
+      {
+        "teamName": "South Africa",
+        "captain": "Temba Bavuma",
+        "coach": "Rob Walter",
+        "keyPlayers": ["Kagiso Rabada", "Quinton de Kock", "Aiden Markram"]
+      },
+      {
+        "teamName": "Bangladesh",
+        "captain": "Shakib Al Hasan",
+        "coach": "Chandika Hathurusingha",
+        "keyPlayers": ["Mushfiqur Rahim", "Taskin Ahmed", "Litton Das"]
+      }
+    ],
+    "Series Stats": {
+      "totalMatches": 3,
+      "winsSouthAfrica": 0,
+      "winsBangladesh": 0,
+      "highestRunScorer": "",
+      "highestWicketTaker": ""
+    },
+    "Venues": [
+      {
+        "name": "Newlands",
+        "capacity": 25000,
+        "city": "Cape Town"
+      },
+      {
+        "name": "SuperSport Park",
+        "capacity": 22000,
+        "city": "Centurion"
+      }
+    ],
+    "News": [
+      {
+        "headline": "South Africa prepares for Bangladesh tour with high expectations",
+        "date": "1 Nov 2024",
+        "link": "https://example.com/sa-prepares"
+      }
+    ],
+    "Info": {
+      "seriesSponsor": "Standard Bank",
+      "officialBroadcaster": "SuperSport",
+      "ticketAvailability": "Available on official sites and stadiums"
+    }
+  }
+  

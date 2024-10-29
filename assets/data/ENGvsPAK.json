@@ -1,0 +1,71 @@
+{
+    "id": "2",
+    "title": "ENG vs PAK",
+    "image": "https://media.istockphoto.com/id/1440694607/photo/pakistan-vs-england-cricket-flags-with-shield-on-cricket-stadium-3d-illustration.jpg?s=612x612&w=0&k=20&c=0YBXh0gyTDi-1jUMOZdOBmJ9UiERJ1h3xD8HG-Q9-ms=",
+    "date": "Ongoing",
+    "Overview": {
+      "summary": "England and Pakistan battle in a highly anticipated series with competitive ODIs and T20s.",
+      "location": "England",
+      "history": "This rivalry has been intense since the 1970s, with several historic matches across Test, ODI, and T20 formats."
+    },
+    "Matches": [
+      {
+        "matchNumber": "1",
+        "date": "25 Oct 2024",
+        "location": "Lord's, London",
+        "result": "Pakistan won by 10 runs"
+      },
+      {
+        "matchNumber": "2",
+        "date": "28 Oct 2024",
+        "location": "Trent Bridge, Nottingham",
+        "result": "Ongoing"
+      }
+    ],
+    "Teams": [
+      {
+        "teamName": "England",
+        "captain": "Jos Buttler",
+        "coach": "Matthew Mott",
+        "keyPlayers": ["Ben Stokes", "Jonny Bairstow", "Jofra Archer"]
+      },
+      {
+        "teamName": "Pakistan",
+        "captain": "Babar Azam",
+        "coach": "Saqlain Mushtaq",
+        "keyPlayers": ["Shaheen Afridi", "Mohammad Rizwan", "Shadab Khan"]
+      }
+    ],
+    "Series Stats": {
+      "totalMatches": 3,
+      "winsEngland": 0,
+      "winsPakistan": 1,
+      "highestRunScorer": "Babar Azam",
+      "highestWicketTaker": "Shaheen Afridi"
+    },
+    "Venues": [
+      {
+        "name": "Lord's",
+        "capacity": 30000,
+        "city": "London"
+      },
+      {
+        "name": "Trent Bridge",
+        "capacity": 17500,
+        "city": "Nottingham"
+      }
+    ],
+    "News": [
+      {
+        "headline": "Pakistan starts strong with close win in first ODI",
+        "date": "26 Oct 2024",
+        "link": "https://example.com/pakistan-wins-first"
+      }
+    ],
+    "Info": {
+      "seriesSponsor": "Pepsi",
+      "officialBroadcaster": "Sky Sports",
+      "ticketAvailability": "Available online"
+    }
+  }
+  
